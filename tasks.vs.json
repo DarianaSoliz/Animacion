@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-Grafica_Proyecto1_2_2023",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
